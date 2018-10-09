@@ -1,0 +1,9 @@
+D:\smojo\Documents\TafeTerm3\Programming3\AT1.6\MathLibaries\MathLibaries\bin\Debug\netstandard2.0\MathLibaries.deps.json
+D:\smojo\Documents\TafeTerm3\Programming3\AT1.6\MathLibaries\MathLibaries\bin\Debug\netstandard2.0\MathLibaries.dll
+D:\smojo\Documents\TafeTerm3\Programming3\AT1.6\MathLibaries\MathLibaries\bin\Debug\netstandard2.0\MathLibaries.pdb
+D:\smojo\Documents\TafeTerm3\Programming3\AT1.6\MathLibaries\MathLibaries\obj\Debug\netstandard2.0\MathLibaries.csproj.CoreCompileInputs.cache
+D:\smojo\Documents\TafeTerm3\Programming3\AT1.6\MathLibaries\MathLibaries\obj\Debug\netstandard2.0\MathLibaries.AssemblyInfoInputs.cache
+D:\smojo\Documents\TafeTerm3\Programming3\AT1.6\MathLibaries\MathLibaries\obj\Debug\netstandard2.0\MathLibaries.AssemblyInfo.cs
+D:\smojo\Documents\TafeTerm3\Programming3\AT1.6\MathLibaries\MathLibaries\obj\Debug\netstandard2.0\MathLibaries.dll
+D:\smojo\Documents\TafeTerm3\Programming3\AT1.6\MathLibaries\MathLibaries\obj\Debug\netstandard2.0\MathLibaries.pdb
+D:\smojo\Documents\TafeTerm3\Programming3\AT1.6\MathLibaries\MathLibaries\obj\Debug\netstandard2.0\MathLibaries.csprojAssemblyReference.cache
